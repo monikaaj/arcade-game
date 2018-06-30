@@ -1,6 +1,37 @@
-frontend-nanodegree-arcade-game
-===============================
+# Project Title
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+Arcade Game
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Getting Started
+
+Clone this repository or download zip package to your device and unzip it. Go to the project folder and open index.html file in your browser.
+You can also play by clicking a link: https://monimary.github.io/arcade-game/
+
+### Prerequisites
+
+Before running the game you will need browser.
+
+```
+Google Chrome
+Mozilla Firefox
+Opera
+Internet Explorer
+etc.
+```
+
+### Installing
+
+All you need is to have the browser installed before and project folder downloaded in your device.
+Open index.html file by right-click on it, choose 'Open With' option and choose your favourite bowser.
+
+## Contributing
+
+Feel free to contribute to this project.
+
+## Authors
+
+* **Monika Ziętal** - [monimary](https://github.com/monimary)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
